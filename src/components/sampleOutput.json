@@ -1,0 +1,81 @@
+
+[
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Umaro Djau, Hande Atay Alam, Heather Chen",
+    "title": "Niger junta says 'high treason' evidence gathered to prosecute ousted president Bazoum - CNN",
+    "description": "Niger's junta claimed Sunday it had gathered evidence to prosecute the country's ousted President Mohamed Bazoum for “high treason,” upping the stakes in their brinkmanship against key neighbors in West Africa who have vowed to restore constitutional order in…",
+    "url": "https://www.cnn.com/2023/08/14/world/niger-coup-treason-evidence-bazoum-intl-hnk/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230814130053-mohamed-bazoum-file.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-08-14T05:07:00Z",
+    "content": "Nigers junta claimed Sunday it had gathered evidence to prosecute the countrys ousted President Mohamed Bazoum for high treason, upping the stakes in their brinkmanship against key neighbors in West … [+3464 chars]"
+  },
+  {
+    "source": {
+      "id": "financial-times",
+      "name": "Financial Times"
+    },
+    "author": "Ciara Nugent",
+    "title": "Argentina radical rightwinger shakes up presidential race with primary win - Financial Times",
+    "description": "Libertarian Javier Milei taps into voter frustration at chronic economic dysfunction",
+    "url": "https://www.ft.com/content/612a09a1-af5b-4173-8897-0bd516a148e5",
+    "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3625032f-f751-4b99-bb33-d40b2d2298e0.jpg?source=next-opengraph&fit=scale-down&width=900",
+    "publishedAt": "2023-08-14T04:49:57Z",
+    "content": "Argentinas upcoming presidential election has been plunged into uncertainty after outsider candidate Javier Milei, a radical libertarian economist, came first in a primary poll on Sunday, indicating … [+3863 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "KOIN.com"
+    },
+    "author": "Tim Steele",
+    "title": "Lookout Fire 'growing rapidly' in Lane County - KOIN.com",
+    "description": "Level 1 (get ready) and Level 2 (get set) evacuation notices are in place for homes near the fire, the Lane County Sheriff’s Office said.",
+    "url": "https://www.koin.com/news/wildfires/lookout-fire-growing-rapidly-in-lane-county/",
+    "urlToImage": "https://www.koin.com/wp-content/uploads/sites/10/2023/08/lookout-fire-08132023.jpg?w=1280",
+    "publishedAt": "2023-08-14T04:29:33Z",
+    "content": "Gov. Kotek declared the Emergency Conflagration Act for Lookout FirePORTLAND, Ore. (KOIN) — The Lookout Fire, currently burning on the Willamette National Forest north of McKenzie Bridge, “has been g… [+967 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "WTAE Pittsburgh"
+    },
+    "author": null,
+    "title": "Son, father remembered after dying in Plum house explosion - WTAE Pittsburgh",
+    "description": "According to the Trib, Keegan would have been 13 in January.",
+    "url": "https://www.wtae.com/article/plum-house-explosion-clontz-father-son/44802875",
+    "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/clontz-family-2-64d951c6eaad0.jpg?crop=0.677xw:0.508xh;0.206xw,0.156xh&resize=1200:*",
+    "publishedAt": "2023-08-14T04:09:00Z",
+    "content": "PLUM, Pa. —A family member has confirmed to Pittsburgh's Action News 4 that two of the people killed in the house explosion in Plum were father and son, Casey Clontz, 38, and Keegan Clontz, 12. \r\nOur… [+2798 chars]"
+  },
+  {
+    "source": {
+      "id": "business-insider",
+      "name": "Business Insider"
+    },
+    "author": "Kwan Wei Kevin Tan",
+    "title": "Elon Musk taunts Mark Zuckerberg for being too small to beat him - Business Insider",
+    "description": "Musk leaked a series of chat messages he says he exchanged with Mark Zuckerberg, where he offered to fight the Meta CEO in the latter's backyard.",
+    "url": "https://www.businessinsider.com/elon-musk-taunts-mark-zuckerberg-too-small-to-beat-him-2023-8",
+    "urlToImage": "https://i.insider.com/64d9891c5e5d5a00195d1041?width=1200&format=jpeg",
+    "publishedAt": "2023-08-14T03:32:00Z",
+    "content": "Elon Musk on Sunday leaked a series of messages that he says are a text exchange between himself and Mark Zuckerberg, where he's seen taunting the latter about the differences in their physical statu… [+2638 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Hollywood Reporter"
+    },
+    "author": "Patrick Brzeski",
+    "title": "China Box Office: 'Ninja Turtles' Bombs as Local Blockbuster ‘No More Bets’ Hits Jackpot With $101M - Hollywood Reporter",
+    "description": "'No More Bets' is on track to earn over $500 million, making it China's biggest film of the summer.",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/china-box-office-no-more-bets-ninja-turtles-bombs-1235565943/",
+    "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/08/No-More-Bets-Turtles-Split.jpeg?w=1024",
+    "publishedAt": "2023-08-14T03:29:28Z",
+    "content": "Local crime thriller No More Bets dominated China's box office during the Aug. 11-13 weekend, bringing in a boffo $101.1 million haul. The film enjoyed generous preview screenings ahead of its openin… [+1849 chars]"
+  }
+]
