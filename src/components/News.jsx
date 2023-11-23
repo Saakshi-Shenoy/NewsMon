@@ -49,9 +49,9 @@ const News = (props) => {
     <>
       <h1
         className="text-center"
-        style={{ margin: "40px 0px", marginTop: "90px" }}
+        style={{ margin: "40px 0px", marginTop: "90px", textDecoration: "underline", color: "black" }}
       >
-        NewsMon - Top{" "}
+       Top{" "}
         {props.category.charAt(0).toUpperCase() + props.category.slice(1)}{" "}
         Headlines
       </h1>
@@ -69,8 +69,8 @@ const News = (props) => {
                 <div className="col-md-4">
                   <NewsItem
                     key={element.url}
-                    title={element.title}
-                    description={element.description}
+                    title={element.title?element.title.slice(0, 45):""}
+                    description={element.description?element.description.slice(0,88):""}
                     imageUrl={element.urlToImage}
                     newsUrl={element.url}
                     author={element.author}
