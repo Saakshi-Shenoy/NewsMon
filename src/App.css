@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    width: 15%;
+    margin-right: 0 !important;
+}
+
+.nav-link{
+    color: white;
+}
+
+.nav-link:hover{
+    background-color:rgba(146, 192, 210, 0.152);
+    border-radius: 4rem;
+    text-decoration: underline;
+    color: white;
+}
+
+.nav-link:visited{
+    color: white;
+}
+
+
