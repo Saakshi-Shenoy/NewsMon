@@ -7,7 +7,7 @@ function Navbar() {
     <div>
       <nav
         className="navbar fixed-top navbar-expand-lg"
-        style={{ backgroundColor: "rgb(4, 12, 51)" }}
+        style={{ backgroundColor: "rgb(4, 12, 51)", height:"80px", fontWeight:"bold" }}
       >
         <div className="container-fluid">
           <Link to="/">
@@ -35,36 +35,36 @@ function Navbar() {
 
               <li className="nav-item">
                 
-                <Link className="nav-link" to="/general">
+                <Link className="nav-link" style={{fontSize: "19px"}} to="/general">
                   General
                 </Link>
               </li>
-              <li className="nav-item">
+              <li className="nav-item" style={{fontSize: "19px"}}>
                 <Link className="nav-link" to="/entertainment">
                   Entertainment
                 </Link>
               </li>
-              <li className="nav-item">
+              <li className="nav-item" style={{fontSize: "19px"}}>
               <Link className="nav-link" to="/business">
                   Business
                 </Link>
               </li>
-              <li className="nav-item">
+              <li className="nav-item" style={{fontSize: "19px"}}>
                 <Link className="nav-link" to="/health">
                   Health
                 </Link>
               </li>
-              <li className="nav-item">
+              <li className="nav-item" style={{fontSize: "19px"}}>
                 <Link className="nav-link" to="/science">
                   Science
                 </Link>
               </li>
-              <li className="nav-item">
+              <li className="nav-item" style={{fontSize: "19px"}}>
                 <Link className="nav-link" to="/sports">
                   Sports
                 </Link>
               </li>
-              <li className="nav-item">
+              <li className="nav-item" style={{fontSize: "19px"}}>
                 <Link className="nav-link" to="/technology">
                   Technology
                 </Link>

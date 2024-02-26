@@ -48,8 +48,8 @@ const News = (props) => {
   return (
     <>
       <h1
-        className="text-center"
-        style={{ margin: "40px 0px", marginTop: "90px", textDecoration: "underline", color: "black" }}
+        className="text-center pt-3"
+        style={{ margin: "40px 0px", marginTop: "90px", textDecoration: "underline", color: "rgb(2, 9, 45)", fontWeight:"bold" }}
       >
        Top{" "}
         {props.category.charAt(0).toUpperCase() + props.category.slice(1)}{" "}
