@@ -32,9 +32,7 @@ function Navbar() {
 
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav mb-lg-0">
-
               <li className="nav-item">
-                
                 <Link className="nav-link" style={{fontSize: "19px"}} to="/general">
                   General
                 </Link>
@@ -45,7 +43,7 @@ function Navbar() {
                 </Link>
               </li>
               <li className="nav-item" style={{fontSize: "19px"}}>
-              <Link className="nav-link" to="/business">
+                <Link className="nav-link" to="/business">
                   Business
                 </Link>
               </li>
@@ -78,3 +76,4 @@ function Navbar() {
 }
 
 export default Navbar;
+
